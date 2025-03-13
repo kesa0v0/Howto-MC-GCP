@@ -1,0 +1,3 @@
+mcstatus
+google-cloud-monitoring
+google-cloud-compute
