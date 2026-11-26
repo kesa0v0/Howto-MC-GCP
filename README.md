@@ -3,3 +3,4 @@
 예전에 GCP에서 마인크래프트 서버를 열 때 사용했던 스크립트 및 설명서.
 
 지금 느낀점: 그냥 Docker 컨테이너 사용하는게 되게 편하다. 현재는 홈서버 구축해서 Docker 돌리면서 사용중임.
+Docker도 직접 DOCKERFILE 만들어서 뺑이 치지 말고 https://github.com/itzg/docker-minecraft-server 이거나 쓰는게 정신건강에 좋다. 아니면 pelican 쓰던가
